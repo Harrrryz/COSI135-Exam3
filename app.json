@@ -37,6 +37,13 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "33379446-c946-4ea5-8999-e17f01a0e108"
+      }
+    },
+    "owner": "diarrhea"
   }
 }
