@@ -19,10 +19,10 @@ const UserContext = createContext<UserContextType | undefined>(undefined);
 
 // Default user data as specified
 const defaultUser: User = {
-  name: 'Tim Hickey',
-  age: 66.95,
-  weight: 165,
-  height: 68,
+  name: 'sdrjrsjt',
+  age: 10,
+  weight: 200,
+  height: 70,
 };
 
 // Create the Provider component
